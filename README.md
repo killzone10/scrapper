@@ -43,6 +43,9 @@ The main program programs are:
 
 The program was created with colleagues.
 
+How to run:
+pip install -r /path/to/requirements.txt
+and then undocumment the code of analyse and crawler and just run it.
 
 
 
