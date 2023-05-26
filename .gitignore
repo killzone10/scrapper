@@ -1,0 +1,6 @@
+__pycache__/
+Crawler/credentials.json
+.DS_Store
+credentials.json
+*.png
+results.*.png

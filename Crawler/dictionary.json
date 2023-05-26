@@ -1,0 +1,58 @@
+{
+    "politics":[
+        "politic",
+        "congress",
+        "governor",
+        "congress",
+        "senate",
+        "depute",
+        "legislative",
+        "government",
+        "senator",
+        "ideology"
+    ],
+    "politics_engaged":[
+        "campaign",
+        "trump",
+        "libertarian",
+        "democrat",
+        "republican",
+        "conservative",
+        "politically",
+        "supporter",
+        "advocate"
+
+    ],
+    "journalists_writers":[
+        "writer",
+        "author",
+        "journalist",
+        "book",
+        "bestseller",
+        "news"
+    ],
+    "celebrities":[
+        "personality",
+        "actor", 
+        "actress",
+        "personalities",
+        "sport",
+        "comedian",
+        "youtuber",
+        "artist",
+        "tiktok",
+        "tik tok",
+        "model",
+        "instagram",
+        "singer",
+        "star",
+        "celbrity",
+        "celebrities",
+        "famous",
+        "viral", 
+        "movie",
+        "dancer"
+    ]
+    
+} 
+

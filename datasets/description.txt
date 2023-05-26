@@ -1,0 +1,7 @@
+politicians_seed, users_list = "TedCruz", "RepMattGaetz","RogerStone"] , depth = 2
+politician_expanded - depth = 1
+
+actors_seed, users_list = ['DineshDSouza','Kirstiealley','TitoOrtiz'], depth = 2
+actors_expanded - depth = 1
+
+journalist_seed, users_list = ['TuckerCarlson', 'Cassandra MacDonald','AndrewWilkow','Mariabartiromotv','SeanHannity','Marklevinshow']
